@@ -986,4 +986,4 @@ async def giveaways(ctx, duration: str = None, winners: int = None, *, prize: st
 
 
 # Replace with your bot token
-bot.run("MTIwNjA3NDM3MTAxMDA3MjU5Ng.G3P2uM.dn1tgYAEVB5EXC6JgsgaYY9xQ94gFGyeOLYdoc")
+bot.run("TOKEN")
